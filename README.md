@@ -1,7 +1,6 @@
 
 
-
-# i_am_poor_app - A mini Flutter project.
+i_am_poor_app - A mini Flutter project.
 
 
 
