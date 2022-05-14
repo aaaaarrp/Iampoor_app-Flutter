@@ -1,6 +1,8 @@
 
-## Getting Started with Flutter
 
-# i_am_poor_app - Flutter project.
+
+# i_am_poor_app - A mini Flutter project.
+
+
 
 
